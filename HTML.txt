@@ -566,7 +566,10 @@ Port           ---->      :so
 Path           ---->      /file.html
 Query          ---->      ?
 Parameters     ---->      key1-value1&key2-valuez
-Fragment       ---->      #00s0350q
+Fragment       ---->      #00s0350q 
+.
+.
+
 
 
 

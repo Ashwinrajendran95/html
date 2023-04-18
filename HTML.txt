@@ -1,0 +1,627 @@
+<!---> : This tag is used to apply comment in an HTML document.
+
+<!DOCTYPE> : This tag is used to specify the version of HTML
+
+A
+
+<a> : It is termed as anchor tag and it creates a hyperlink or link.
+
+<abbr> : It defines an abbreviation for a phrase or longer word.
+
+<acronym> : It defines acronym for a word. (Not supported in HTML5)
+
+<address> : It defines the author's contact information of the HTML article
+
+<applet> : It defines an embedded Java applet. (Not supported in HTML5)
+
+<area> : It defines the area of an image map.
+
+<article> : HTML Tags List It defines the self-contained content.
+
+<aside> : HTML Tags List It defines content aside from main content. Mainly represented as sidebar.
+
+<audio> : HTML Tags List It is used to embed sound content in HTML document.
+
+<b> : It is used to make a text bold.
+
+<base> : This tag defines the base URL for all relative URL within the document.
+
+<basefont> : This tag is used to set default font, size and color for all elements of document. (Not supported in HTML5)
+
+<bdi> : HTML Tags List This tag is used to provide isolation for that part of text which may be formatted in different directions from its surrounding text.
+
+<bdo> : It is used to override the current text direction.
+
+<big> : This tag is used to make font size one level larger than its surrounding content. (Not supported in HTML5)
+
+<blockquote> : It is used to define a content which is taken from another source.
+
+<body> : It is used to define the body section of an HTML document.
+
+<br> : It is used to apply single line break.
+
+<button> : It is used to represent a clickable button
+
+<em> : It is used to emphasis the content applied within this element.
+
+<embed> : HTML Tags List It is used as embedded container for external file/application/media, etc.
+
+F
+
+<fieldset> : It is used to group related elements/labels within a web form.
+
+<figcaption> : HTML Tags List It is used to add a caption or explanation for the element.
+
+<figure> : HTML Tags List It is used to define the self-contained content, and s mostly refer as single unit.
+
+<font> : It defines the font, size, color, and face for the content. (Not supported in HTML5)
+
+<footer> : HTML Tags List It defines the footer section of a webpage.
+
+<form> : It is used to define an HTML form.
+
+<frame> : It defines a particular area of webpage which can contain another HTML file. (Not supported in HTML5)
+
+<frameset> : It defines group of Frames. (Not supported in HTML5)
+
+<h1> to <h6> : It defines headings for an HTML document from level 1 to level 6.
+
+<head> : It defines the head section of an HTML document.
+
+<header> : HTML Tags List It defines the header of a section or webpage.
+
+<hr> : It is used to apply thematic break between paragraph-level elements.
+
+<html> : It represents root of an HTML document.
+
+<i> : It is used to represent a text in some different voice.
+
+<iframe> : It defines an inline frame which can embed other content.
+
+<img> : It is used to insert an image within an HTML document.
+
+<input> : It defines an input field within an HTML form.
+
+<ins> : It represent text that has been inserted within an HTML document.
+
+<isindex> : It is used to display search string for current document. (Not supported in HTML5)
+
+K
+
+<kbd> : It is used to define keyboard input.
+
+L
+
+<label> : It defines a text label for the input field of form.
+
+<legend> It defines a caption for content of <fieldset>
+
+<li> : It is used to represent items in list.
+
+<link> : It represents a relationship between current document and an external resource.
+
+M
+
+<main> : HTML Tags List It represents the main content of an HTML document.
+
+<map> : It defines an image map with active areas.
+
+<mark> : HTML Tags List It represents a highlighted text.
+
+<marquee> : It is used to insert the scrolling text or an image either horizontally or vertically. (Not supported in HTML5)
+
+<menu> : It is used for creating a menu list of commands.
+
+<meta> : It defines metadata of an HTML document.
+
+<meter> : HTML Tags List It defines scalar measurement with known range or fractional value.
+
+N
+
+<nav> : HTML Tags List It represents section of page to represent navigation links.
+
+<noframes> : It provides alternate content to represent in browser which does not support the <frame> elements. (Not supported in HTML5)
+
+<noscript> : It provides an alternative content if a script type is not supported in browser.
+
+O
+
+<object> : It is used to embed an object in HTML file.
+
+<ol> : It defines an ordered list of items.
+
+<optgroup> : It is used to group the options of a drop-down list.
+
+<option> : It is used to define options or items in a drop-down list.
+
+<output> : HTML Tags List It is used as container element which can show result of a calculation.
+
+P
+
+<p> : It represents a paragraph in an HTML document.
+
+<param> : It defines parameter for an <object> element
+
+<picture> : HTML Tags List It defines more than one source element and one image element.
+
+<pre> : It defines preformatted text in an HTML document.
+
+<progress> : HTML Tags List It defines the progress of a task within HTML document.
+
+Q
+
+<q> : It defines short inline quotation.
+
+<s> : It render text which is no longer correct or relevant.
+
+<samp> : It is used to represent sample output of a computer program.
+
+<script> : It is used to declare the JavaScript within HTML document.
+
+<section> : HTML Tags List It defines a generic section for a document.
+
+<select> : It represents a control which provides a menu of options
+
+<small> : It is used to make text font one size smaller than document's base font size.
+
+<source> : HTML Tags List It defines multiple media recourses for different media element such as <picture>, <video>, and <audio> element.
+
+<span> : It is used for styling and grouping inline.
+
+<strike> : It is used to render strike through the text. (Not supported in HTML5)
+
+<strong> : It is used to define important text.
+
+<style> : It is used to contain style information for an HTML document.
+
+<sub> : It defines a text which displays as a subscript text.
+
+<summary> : HTML Tags List It defines summary which can be used with <details> tag.
+
+<sup> : It defines a text which represent as superscript text.
+
+<svg> : It is used as container of SVG (Scalable Vector Graphics).
+
+<table> : It is used to present data in tabular form or to create a table within HTML document.
+
+<tbody> : It represents the body content of an HTML table and used along with <thead> and <tfoot>.
+
+<td> : It is used to define cells of an HTML table which contains table data
+
+<template> : It is used to contain the client side content which will not display at time of page load and may render later using JavaScript.
+
+<textarea> : It is used to define multiple line input, such as comment, feedback, and review, etc.
+
+<tfoot> : It defines the footer content of an HTML table.
+
+<th> : It defines the head cell of an HTML table.
+
+<thead> : It defines the header of an HTML table. It is used along with <tbody> and <tfoot> tags.
+
+<time> : HTML Tags List It is used to define data/time within an HTML document.
+
+<title> : It defines the title or name of an HTML document.
+
+<tr> : It defines the row cells in an HTML table
+
+<track> : It is used to define text tracks for <audio> and <video> elements.
+
+<tt> : It is used to define teletype text. (Not supported in HTML5)
+
+U
+
+<u> : It is used to render enclosed text with an underline.
+
+<ul> : It defines unordered list of items.
+
+V
+
+<var> : It defines variable name used in mathematical or programming context.
+
+<video> : HTML Tags List It is used to embed a video content with an HTML document
+
+W
+
+<wbr> : HTML Tags List It defines a position within text where break line is possible.
+
+WEBSITES FOR FREE
+HTML & CSS TEMPLATES
+
+1. Templated
+2. Zerotheme
+3. UIDECK
+4. Admin UI Theme
+5. HTML5UP
+6. Theme Wagon
+7. Colorlib
+8. W3Layouts
+
+5 Amazing Trick For HTML
+
+1. Time Page Refreshes & Redirect:
+
+You can add a special < meta > tag inside your document's head to refresh the page at a set interval or
+to redirect users to different websites after a set delay.
+
+<meta http-equiv="refresh" content="30">
+
+<meta http-equiv="refresh" content="30; https://google.com">
+
+2. Add Voice Recognition
+
+Voice Recognition : This tricks is used to add voice search in the input field. 
+Like Google search, it searches on by voice recognition.
+
+Note : This will only work on mobile devices(Lolipop only Google Chrome.
+
+<input type="text" x-webkit-speech />
+
+3. Disable Right Clicking
+
+Sometimes you might want to disable the context menu of the browser on your web page when the user right
+clicks ! This can easily be done using a simple trick !
+
+Prevent right clicking the entire web page
+<body oncontextmenu="return false">
+
+Prevent right clicking a specific element
+<section oncontextmenu="return false">Not Allowed</section>
+
+4. Add Color Picker
+
+This is a really cool HTML trick!
+
+With HTML5, there are some really interactive customizations that visitors to your website will like.
+This feature will be particularly user-friendly for those new to coding or without a lot of coding knowledge.
+
+<b>Color picker in input filed: </b>
+<input type="color">
+
+5. Capturing The User's Camera
+
+For users who are on mobile devices, you can use the <input /
+>tag with a capture attribute to open the user's cameras and
+allow them to take a photo or video to upload to your website!
+On desktop , the default behavior of uploading files is kept!
+
+Opens back facing camera to take a video
+<input type="file" capture="environment" accept="video/*">
+
+Opens front facing camera to take a photo
+<input type="file" capture="user" accept="image/*">
+
+BASICS OF HTML
+
+1. <html></html>                 ---->    Start And End Document
+2. <h1></hl>                     ---->    Header Sizes 1-6 [Larger To Small]
+3. <p></p>                       ---->    Paragraph Tag
+4. &nbsp                         ---->    Non-Breaking Space
+5. <b></b>                       ---->    Bold Text Tag
+6. <strike></strike>             ---->    Strike Through Tag
+7. <></i>                        ---->    Italics Tag 
+8. <u></u>                       ---->    Underline Tag
+9. <li></li>                     ---->    List Items Tag
+10. <table></table>              ---->    Basic Table Tag
+
+11. <a href="url">texts</html>   ---->    Basic Link
+12. <img src="url" alt="text",   ---->    Basic Image
+13. src = "url"                  ---->    Sorce(URL/File Name)
+14. alt = "text"                 ---->    ALT (Hover) Text
+15. width = "number"             ---->    Line OR Image Width By Number OR Percentage
+16. height = "number"            ---->    Line OR Image Height By Number OR Percentage
+17. border = "number"            ---->    Border Thickness
+18. color = "#number"            ---->    Color
+19. <br>                         ---->    Line Break Tag
+20. <blockquote></blockquote>    ---->    Quote Text Block
+
+Command Your PC
+LIKE PRO
+
+1. Screenshot: Win+ PrtScr
+2. Switch between windows: Alt+ Tab
+3. Minimize all windows: Win +M
+4. Window split screen: Win + Arrow Right/Left
+5. Open settings: Win+/
+6. Lock your computer: Win +L
+
+INPUT TYPES IN HTML
+
+<input type = "text">                ---->    xyz
+<input type = "password">            ---->    *****
+<input type = "ratio">               ---->    No  Yes 
+<input type = "checkbox">            ---->    
+<input type = "button">              ---->    Button
+<input type = "email">               ---->    Enter email
+<input type = "file">                ---->    Choose file
+<input type = "hidden">              ---->    
+<input type = "image">               ---->    Submit Image
+<input type = "number">              ---->    1234
+<input type = "range">               ---->    
+<input type = "search">              ---->    Search
+<input type = "tel">                 ---->    123-456-789
+<input type = "time">                ---->    12:44 AM
+<input type = "date">                ---->    12-11-22
+<input type = "datetime-local">      ---->    12-11-22 17:12
+<input type = "week">                ---->    week 45,2022
+<input type = "month">               ---->    October 2022              
+<input type = "url">                 ---->    https://www.xyz.com
+<input type = "submit">              ---->    Submit
+<input type = "reset">               ---->    Reset
+<input type = "color">               ---->    
+<input type = "Like">                ---->    Like
+<input type = "Share">               ---->    Share
+<input type = "Follow">              ---->    Follow
+
+Display Emoji Using
+HTML
+
+<h1>&#128526;</h1>        ---->    Cool
+<h1>&#128578;</h1>        ---->    Happy
+<h1>&#128525;</h1>        ---->    Heartin
+<h1>&#129324;</h1>        ---->    Angry
+<h1>&#128514;</h1>        ---->    Laughing
+<h1>&#128520;</h1>        ---->    Angry(Devil)
+<h1>&#129313;</h1>        ---->    Joker
+<h1>&#128564;</h1>        ---->    Tired
+<h1>&#129297;</h1>        ---->    Toungue Out
+
+HTTP Status Codes
+
+400       ---->     Bad Request
+401       ---->     Unauthorized
+402       ---->     Payment Required
+403       ---->     Forbidden
+404       ---->     Not Found
+405       ---->     Method Not Allowed
+406       ---->     Not Acceptable
+407       ---->     Proxy Authentication Required
+408       ---->     Request Timeout
+409       ---->     Conflict
+410       ---->     Gone
+411       ---->     Length Required
+412       ---->     Precondition Failed
+413       ---->     Payload Too Large
+414       ---->     URI Too Long
+415       ---->     Unsupported Media Type
+
+CONTROL KEY SHORTCUTS
+
+CTRL + A = All Select
+CTRL + B = Bold
+CTRL + C = Copy
+CTRL + D = Duplicate
+CTRL + E = Alignment Center Side
+CTRL + F = Find
+CTRL + G = Group & Go To
+CTRL + H = Replace
+CTRL + 1 = Italic
+CTRL + J = Justify
+CTRL + K = Hyperlink
+CTRL + L = Alignment Left Side
+CTRL + M = New Slide
+CTRL + N = New Document & Page
+CTRL + 0 = Open
+CTRL + P = Print
+CTRL + Q = Quit
+CTRL + R = Alignment Right Side
+CTRL + S = Save
+CTRL + T = New Tab
+CTRL + U = Underline
+CTRL + V = Paste
+CTRL + W = Close The Window
+CTRL + X = Cut
+CTRL + Y = Redo
+CTRL + Z = Undo
+
+CTLR + Esc = Windows Start Menu.
+CTLR + Tab = Switch between open tabs in browsers or other tabbed programs 
+CTLR + Shift + Tab = Will go backwards (right to left).
+CTLR + Delete = Delete next word.
+CTLR + PgDn = Next tab
+CTLR + PgUp = Previous tab
+
+CTLR + <- = Previous word
+CTLR + -> = Next word
+CTLR + <- = Delete previous word
+CTLR + Alt + <- = Restart X11
+CTLR + Alt + (UpArrow) = Rotate screen right-side
+CTLR + Alt + (DownArrow) = Rotate screen upside down
+CTLR + Alt + <- = Rotate screen left
+CTLR + Alt + -> = Rotate screen right
+
+3/8:
+Use the figure element to add captions to your images
+
+Don't do this :
+
+<div>
+   <img src="a-man-coding. jpg" alt="A man working on his computer">
+   <p>This is a picture of a man working on his computer</p>
+</div>
+
+Do this instead :
+
+<figure>
+   <ing src="a-man-coding. jpg"
+        alt="A man working on his computer">
+   <figcaption>
+        This is a picture of a man workingon his computer
+   </figcaption>
+</figure>
+
+4/8:
+Do not use divs to create headers and footers
+
+Don't do this :
+
+<div class="header">
+   <a href="index.html">Home</a>
+   <a href="#">About</a>
+   <a href="#">Contact</a>
+</div>
+
+<div class="footer">
+   < href="index. html">Home</a>
+   <a href="#">About</a>
+   <a href="#">Contact</a>
+/div>
+
+Do this instead Q: 
+
+<header>
+   <a href="index. html">Home</a>
+   <a href="#">Abouts/a>
+   <a href="#">Contact</a>
+</header>
+
+<footer>
+   <a href="index.html">Home </a>
+   <a href="#">About</a>
+  <a href="#">Contact</a>
+</footers
+
+5/8:
+Avoid using <b> and <i> to bold and italicize texts on a web page
+
+Don't do this :
+
+<p><i>Code at your own pace</i><p>
+<p><b>code at your own paces/b><p>
+
+Do this instead :
+
+<p><strong>Code at your own pace</strong><p>
+<p><em>code at your own paces/em><p>
+
+
+6/8:
+Don't place block-level element within inline elements.round
+
+Don't do this :
+
+<a href="#" >
+   <p> Visit freecodecamp </p>
+</a>
+
+Do this instead :
+
+<p>
+   Visit <a href="www. freecodecamp. org" target="_blank">
+          FreecodeCamp</a>
+   to learn Javascript
+</P>
+
+
+7/8:
+Use only one <h1> element for one code sheet
+
+Don't do this :
+
+<main>
+  <div>
+   <h1>Can Coding be fun?</h1>
+   <p>The more you code the better you become</p>
+  </div>
+  
+  <div>
+   <h1>Coding is fun</h1>
+   <p>It is always better when you have fun</p>
+  </div>
+</main>
+
+Do this instead :
+
+<main>
+  <div>
+   <h1>Can coding be fun?</h1>
+   <p>The more you code the better you becomes/p>
+  </div>
+
+  <div>
+   <h2 Coding is fun</h2>
+   <p>It is always better when you have fun/p>
+</div>
+
+Other Tips
+
+1. Use Meaningful Title Tags
+2. Always Declare a Doctype
+3. Use Descriptive Meta Tags
+4. Do not skip heading levels in HTML
+5. Code With SEO in Mind
+6. Group Relevant Sections
+7. Avoid Excessive Comments
+8. Use Alt Attributes with Images
+9. Use Lower Case Markup
+10. Minify External CSS and then link it to the HTML document
+
+Structure of URL
+
+https://www example.com :so /file.html ? key1-value1&key2-valuez #00s0350q
+
+Protocol       ---->      https://
+Sub Domin      ---->      www
+Domin Name     ---->      example.com
+Port           ---->      :so
+Path           ---->      /file.html
+Query          ---->      ?
+Parameters     ---->      key1-value1&key2-valuez
+Fragment       ---->      #00s0350q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
